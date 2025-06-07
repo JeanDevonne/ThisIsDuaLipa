@@ -35,7 +35,9 @@ body{
     width: 100%;
 }
 .follow {
+    margin: 0 auto;
     text-align: center;
+    width: 19.88em;
 }
 @media only screen
 and (min-device-width: 320px)
